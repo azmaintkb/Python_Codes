@@ -53,5 +53,5 @@ np1 = NeedProtein()
 np2 = NeedProtein("soya",50)
 print(np2.source_0)
 print(np2.p0)
-
+#little chnage
 
